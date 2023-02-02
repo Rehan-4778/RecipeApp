@@ -52,7 +52,7 @@ Please read [CONTRIBUTING.md](https://github.com/username/recipe-app/blob/master
 
 ## Author
 
-[Your Name](https://github.com/username)
+[Rehan](https://github.com/Rehan-4778)
 
 ## License
 
